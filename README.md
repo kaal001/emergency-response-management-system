@@ -20,6 +20,51 @@ The application allows an administrator to:
 - Persist application data locally between sessions
 
 The current version is a local desktop application built with Java Swing.
+## Screenshots
+
+### Login
+
+<p align="center">
+  <img src="screenshots/01-login.jpg" alt="Administrator Login" width="850">
+</p>
+
+### Dashboard
+
+<p align="center">
+  <img src="screenshots/02-dashboard.jpg" alt="Dashboard" width="850">
+</p>
+
+### Emergency Management
+
+<p align="center">
+  <img src="screenshots/03-emergency-management.jpg" alt="Emergency Management" width="850">
+</p>
+
+### Response Team Management
+
+<p align="center">
+  <img src="screenshots/04-response-teams.jpg" alt="Response Team Management" width="850">
+</p>
+
+### Assignment Management
+
+<p align="center">
+  <img src="screenshots/05-assignments.jpg" alt="Assignment Management" width="850">
+</p>
+
+### Reports
+
+<p align="center">
+  <img src="screenshots/06-reports.jpg" alt="Reports" width="850">
+</p>
+
+### Emergency History
+
+<p align="center">
+  <img src="screenshots/07-history.jpg" alt="Emergency History" width="850">
+</p>
+
+
 
 ## Features
 
