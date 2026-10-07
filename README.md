@@ -303,6 +303,18 @@ src/app/Main.java
 
 The application creates the runtime data directory automatically when persistent data is saved.
 
+## Download
+
+A packaged version of the application is available through GitHub Releases.
+
+**Download and run the latest release:**
+
+[**Download Latest Release →**](../../releases/latest)
+
+The release provides a ready-to-use packaged version of the application, so users can run the software without manually building the project from source.
+
+For developers who want to inspect or modify the implementation, the complete source code is available in this repository.
+
 ## Data Persistence
 
 The application uses Java object serialization for local persistence.
@@ -364,6 +376,12 @@ Potential extensions for a larger version of the system include:
 - More advanced analytics and reporting
 - Improved application packaging and distribution
 - Multi-user or network-based operation
+
+## AI Assistance
+
+AI tools were used during the development of this project as a supporting resource for problem-solving, debugging, code organization, commenting and documentation.
+
+The project was implemented, integrated, tested, and finalized by the author, with AI assistance used as a development aid.
 
 ## Project Status
 
