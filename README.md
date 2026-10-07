@@ -285,8 +285,8 @@ For critical emergencies, the system can automatically search for a suitable ava
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kaal001/Emergency_Management_System_mini.git
-cd Emergency_Management_System_mini
+git clone https://github.com/kaal001/emergency-response-management-system.git
+cd emergency-response-management-system
 ```
 
 2. Open the project in your Java IDE.
